@@ -1,1 +1,0 @@
-The cache simulator will attempt to find the trace file inputs 2 parent directories above ("../../") the mp1 folder. Line 30 and 33 in sim_cache.java is where the file is attempted to be located and instantiated, respectively
